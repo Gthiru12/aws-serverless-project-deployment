@@ -9,7 +9,7 @@
     console.log("DOM ready, binding handlers...");
 
     // ====== CONFIG ======
-    const API_BASE = "https://ooxs5x5f8f.execute-api.ap-south-1.amazonaws.com/employee";
+    const API_BASE = "https://ooxs5x5f8f.execute-api.ap-south-1.amazonaws.com/employeeapi";
 
     // ====== HELPERS ======
     function showBadge(id) {
@@ -182,4 +182,5 @@
     // loadAll();
   });
 })();
+
 
